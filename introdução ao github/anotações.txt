@@ -1,0 +1,4 @@
+https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/12607816-1128-4906-9645-cbe0f7fcc72b?back=/track/take-blip-web-developer
+ o git bahs é um terminal extendido para o uso do git
+sha1 é um conjuto de caracteres de 40 digitos unico que serve de identificação
+cada mudança no arquivo gera um novo sha1  
