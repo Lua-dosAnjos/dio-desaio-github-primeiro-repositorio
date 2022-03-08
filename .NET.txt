@@ -1,0 +1,18 @@
+Intdução ao ecossistema .NET e Documentação
+- objetivo do curso
+ter uma visão geral do ecossistema .NET
+Aula 1: visão geral ( conceitos e caracteristicas)
+
+.NET - Plataforma de desenvolvimento com diversas ferramentas, linguagens de programação e bibliotecas que permitem o desenvolvimento  de diversos tipos de aplicações
+
+ASP.NET - Framework que estende o .NET para a criação de web apps.
+ É gratuita e de software livre
+ É uma plataforma cruzada ( conseguimos desenvolver para diversas estruturas diferentes)
+.NET Standard são especificações das APIs que são comuns às implementações .NET
+ - Bibliotecas para desenvolvimento e execuçãi de aplicações .NET
+ * SDK
+ * Runtime
+- NUGET: Gerenciador de pacotes
+- Acesso a dados
+ * OMR - Entity Framework Core
+ * LINQ - consulta integrada a linguagem
